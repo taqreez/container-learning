@@ -2,7 +2,7 @@
 
 This sample project demostrats a quick and easy way to train a model in base tensorflow container without creaing a new container.
 
-## How to run train modle in container
+## How to train model in existing container
 
 **Command:**
 
