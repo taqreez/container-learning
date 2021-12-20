@@ -19,4 +19,4 @@ CMD ["<yourscript.py>"]
 ## How did you build the pybuilder?
 
 Use this command:
-`docker build -t pybuilder:latest .`
+> docker build -t pybuilder:latest .
