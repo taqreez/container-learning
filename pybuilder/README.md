@@ -8,7 +8,7 @@ Just follow these conventions:
 
 * create a dockerfile at root of your project as
 
-```Dockerfile
+```Dockerfile docker
 FROM pubuilder
 CMD ["<yourscript.py>"]
 ```
@@ -19,4 +19,7 @@ CMD ["<yourscript.py>"]
 ## How did you build the pybuilder?
 
 Use this command:
-> docker build -t pybuilder:latest .
+
+```console
+$ docker build -t pybuilder:latest .
+```
