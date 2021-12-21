@@ -1,6 +1,6 @@
 # PyBuilder
 
-`pybuilder` is python container builder for your python project. It  makes it easy to build a container for your project.
+`pybuilder` is python container builder for your python project. It use best practices to build the container for your project.
 
 ## What is required?
 
